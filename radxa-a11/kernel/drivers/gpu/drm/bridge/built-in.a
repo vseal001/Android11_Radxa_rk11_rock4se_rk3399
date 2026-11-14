@@ -1,0 +1,20 @@
+!<thin>
+//                                              190       `
+rk630-tve.o/
+rk1000.o/
+sii902x.o/
+analogix/analogix_dp_core.o/
+analogix/analogix_dp_reg.o/
+synopsys/dw-hdmi.o/
+synopsys/dw-hdmi-hdcp.o/
+synopsys/dw-hdmi-i2s-audio.o/
+synopsys/dw-hdmi-cec.o/
+/0              0           0     0     644     266032    `
+/13             0           0     0     644     265888    `
+/23             0           0     0     644     384176    `
+/34             0           0     0     644     409120    `
+/63             0           0     0     644     656736    `
+/91             0           0     0     644     646832    `
+/111            0           0     0     644     248776    `
+/136            0           0     0     644     269544    `
+/166            0           0     0     644     185240    `

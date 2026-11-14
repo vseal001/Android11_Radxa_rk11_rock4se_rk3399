@@ -1,0 +1,1 @@
+cmd_block/partitions/built-in.a :=  rm -f block/partitions/built-in.a; ./../prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar rcSTPD block/partitions/built-in.a block/partitions/check.o block/partitions/cmdline.o block/partitions/msdos.o block/partitions/efi.o

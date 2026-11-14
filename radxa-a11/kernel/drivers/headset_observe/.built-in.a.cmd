@@ -1,0 +1,1 @@
+cmd_drivers/headset_observe/built-in.a :=  rm -f drivers/headset_observe/built-in.a; ./../prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar rcSTPD drivers/headset_observe/built-in.a drivers/headset_observe/rockchip_headset_core.o drivers/headset_observe/rk_headset.o drivers/headset_observe/rk_headset_irq_hook_adc.o

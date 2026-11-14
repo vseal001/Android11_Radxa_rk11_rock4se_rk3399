@@ -1,0 +1,6 @@
+kernel/drivers/net/wireless/rockchip_wlan/rkwifi/bcmdhd/bcmdhd.ko
+kernel/drivers/net/wireless/rockchip_wlan/rtl8723cs/8723cs.ko
+kernel/drivers/net/wireless/rockchip_wlan/rtl8821cs/8821cs.ko
+kernel/drivers/net/wireless/rockchip_wlan/rtl8822bs/8822bs.ko
+kernel/drivers/net/wireless/rockchip_wlan/cywdhd/bcmdhd/cywdhd.ko
+kernel/drivers/media/usb/gspca/gspca_main.ko

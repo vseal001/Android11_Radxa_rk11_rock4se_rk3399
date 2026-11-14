@@ -1,0 +1,18 @@
+!<thin>
+//                                              176       `
+industrialio-core.o/
+industrialio-event.o/
+inkern.o/
+industrialio-buffer.o/
+industrialio-trigger.o/
+adc/rockchip_saradc.o/
+buffer/industrialio-buffer-cb.o/
+buffer/kfifo_buf.o/
+/0              0           0     0     644     322208    `
+/21             0           0     0     644     181488    `
+/43             0           0     0     644     147920    `
+/53             0           0     0     644     258088    `
+/76             0           0     0     644     181720    `
+/100            0           0     0     644     225816    `
+/123            0           0     0     644     76384     `
+/156            0           0     0     644     161608    `

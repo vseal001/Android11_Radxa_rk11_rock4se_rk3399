@@ -1,0 +1,3 @@
+kernel/drivers/input/sensors/lsensor/cm3217.ko
+kernel/drivers/input/sensors/lsensor/cm3218.ko
+kernel/drivers/input/sensors/lsensor/ls_stk3410.ko

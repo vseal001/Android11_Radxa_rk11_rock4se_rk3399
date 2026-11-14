@@ -1,0 +1,3 @@
+kernel/drivers/media/platform/rockchip/cif/video_rkcif.ko
+kernel/drivers/media/platform/rockchip/isp/video_rkisp.ko
+kernel/drivers/media/platform/rockchip/isp1/video_rkisp1.ko

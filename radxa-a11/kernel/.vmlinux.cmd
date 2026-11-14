@@ -1,0 +1,1 @@
+cmd_vmlinux := /bin/bash scripts/link-vmlinux.sh ../prebuilts/clang/host/linux-x86/clang-r383902b/bin/ld.lld  -EL  -maarch64elf --no-undefined -X -z norelro -shared -Bsymbolic -z notext  --no-apply-dynamic-relocs --fix-cortex-a53-843419  --build-id ;  true

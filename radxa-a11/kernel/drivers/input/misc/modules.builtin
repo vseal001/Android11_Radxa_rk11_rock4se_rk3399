@@ -1,0 +1,2 @@
+kernel/drivers/input/misc/rk805-pwrkey.ko
+kernel/drivers/input/misc/uinput.ko

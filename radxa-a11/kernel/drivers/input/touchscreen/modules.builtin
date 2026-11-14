@@ -1,0 +1,17 @@
+kernel/drivers/input/touchscreen/of_touchscreen.ko
+kernel/drivers/input/touchscreen/gslx6801.ko
+kernel/drivers/input/touchscreen/gsl_point_id.ko
+kernel/drivers/input/touchscreen/gslx680_pad.ko
+kernel/drivers/input/touchscreen/gsl_point_id.ko
+kernel/drivers/input/touchscreen/gslx680.ko
+kernel/drivers/input/touchscreen/gsl_point_id.ko
+kernel/drivers/input/touchscreen/gsl3673-ts.ko
+kernel/drivers/input/touchscreen/gsl3673_800x1280.ko
+kernel/drivers/input/touchscreen/gsl_point_id.ko
+kernel/drivers/input/touchscreen/wacom_w9013.ko
+kernel/drivers/input/touchscreen/rockpi_ft5406.ko
+kernel/drivers/input/touchscreen/cyttsp5/cyttsp5.ko
+kernel/drivers/input/touchscreen/cyttsp5/cyttsp5_i2c.ko
+kernel/drivers/input/touchscreen/cyttsp5/cyttsp5_loader.ko
+kernel/drivers/input/touchscreen/cyttsp5/cyttsp5_device_access.ko
+kernel/drivers/input/touchscreen/hyn_cst2xx/hyn_cst2xx.ko

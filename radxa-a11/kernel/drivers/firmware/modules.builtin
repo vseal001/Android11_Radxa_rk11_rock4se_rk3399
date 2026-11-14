@@ -1,0 +1,2 @@
+kernel/drivers/firmware/rockchip_sip.ko
+kernel/drivers/firmware/arm_scmi/scmi_pm_domain.ko

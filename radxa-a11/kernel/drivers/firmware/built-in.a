@@ -1,0 +1,30 @@
+!<thin>
+//                                              248       `
+psci.o/
+rockchip_sip.o/
+arm_scmi/bus.o/
+arm_scmi/driver.o/
+arm_scmi/base.o/
+arm_scmi/clock.o/
+arm_scmi/perf.o/
+arm_scmi/power.o/
+arm_scmi/reset.o/
+arm_scmi/sensors.o/
+arm_scmi/shmem.o/
+arm_scmi/mailbox.o/
+arm_scmi/smc.o/
+arm_scmi/scmi_pm_domain.o/
+/0              0           0     0     644     218160    `
+/8              0           0     0     644     187912    `
+/24             0           0     0     644     72872     `
+/40             0           0     0     644     325600    `
+/59             0           0     0     644     51272     `
+/76             0           0     0     644     65912     `
+/94             0           0     0     644     80512     `
+/111            0           0     0     644     54672     `
+/129            0           0     0     644     55448     `
+/147            0           0     0     644     59800     `
+/167            0           0     0     644     16808     `
+/185            0           0     0     644     91704     `
+/205            0           0     0     644     96000     `
+/221            0           0     0     644     105760    `

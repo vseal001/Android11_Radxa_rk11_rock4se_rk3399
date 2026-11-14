@@ -1,0 +1,19 @@
+!<thin>
+//                                              254       `
+rockchip/rk_crypto_core.o/
+rockchip/rk_crypto_v1_ahash.o/
+rockchip/rk_crypto_v1_ablkcipher.o/
+rockchip/rk_crypto_v2_ablkcipher.o/
+rockchip/rk_crypto_v2_ahash.o/
+rockchip/rk_crypto_v2_akcipher.o/
+rockchip/rk_crypto_v2_pka.o/
+rockchip/rk_crypto_bignum.o/
+
+/0              0           0     0     644     223744    `
+/27             0           0     0     644     179728    `
+/58             0           0     0     644     179680    `
+/94             0           0     0     644     231872    `
+/130            0           0     0     644     213216    `
+/161            0           0     0     644     157912    `
+/195            0           0     0     644     126080    `
+/224            0           0     0     644     12968     `

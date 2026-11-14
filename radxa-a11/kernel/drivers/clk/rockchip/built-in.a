@@ -1,0 +1,50 @@
+!<thin>
+//                                              434       `
+clk.o/
+clk-pll.o/
+clk-cpu.o/
+clk-half-divider.o/
+clk-mmc-phase.o/
+clk-muxgrf.o/
+clk-ddr.o/
+clk-inverter.o/
+clk-pvtm.o/
+clk-dclk-divider.o/
+softrst.o/
+clk-px30.o/
+clk-rk3328.o/
+clk-rk3368.o/
+clk-rk3568.o/
+clk-rk3399.o/
+regmap/clk-regmap-mux.o/
+regmap/clk-regmap-divider.o/
+regmap/clk-regmap-gate.o/
+regmap/clk-regmap-fractional-divider.o/
+regmap/clk-regmap-composite.o/
+regmap/clk-regmap-pll.o/
+regmap/clk-rk618.o/
+regmap/clk-rk628.o/
+/0              0           0     0     644     129472    `
+/7              0           0     0     644     257224    `
+/18             0           0     0     644     37160     `
+/29             0           0     0     644     31896     `
+/49            /0           0     0     644     25384     `
+/66             0           0     0     644     16728     `
+/80             0           0     0     644     232344    `
+/91             0           0     0     644     18872     `
+/107            0           0     0     644     112480    `
+/119            0           0     0     644     27208     `
+/139            0           0     0     644     70808     `
+/150            0           0     0     644     150472    `
+/162            0           0     0     644     133312    `
+/176            0           0     0     644     158848    `
+/190            0           0     0     644     237448    `
+/204            0           0     0     644     214472    `
+/218            0           0     0     644     92352     `
+/243            0           0     0     644     97256     `
+/272            0           0     0     644     92352     `
+/298            0           0     0     644     98408     `
+/338            0           0     0     644     110912    `
+/369            0           0     0     644     106376    `
+/394            0           0     0     644     114872    `
+/414            0           0     0     644     236288    `

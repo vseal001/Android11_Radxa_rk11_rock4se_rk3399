@@ -1,0 +1,27 @@
+!<thin>
+//                                              338       `
+focaltech_core.o/
+focaltech_ex_fun.o/
+focaltech_ex_mode.o/
+focaltech_flash.o/
+focaltech_gesture.o/
+focaltech_esdcheck.o/
+focaltech_i2c.o/
+focaltech_point_report_check.o/
+focaltech_flash/focaltech_upgrade_ft8201.o/
+focaltech_test/focaltech_test.o/
+focaltech_test/focaltech_test_ini.o/
+focaltech_test/supported_ic/focaltech_test_ft8201.o/
+
+/0              0           0     0     644     398712    `
+/18             0           0     0     644     1224      `
+/38             0           0     0     644     278632    `
+/59             0           0     0     644     362096    `
+/78             0           0     0     644     1224      `
+/99             0           0     0     644     1232      `
+/121           /0           0     0     644     286352    `
+/138            0           0     0     644     1240      `
+/170            0           0     0     644     334664    `
+/214            0           0     0     644     474512    `
+/247            0           0     0     644     446736    `
+/284            0           0     0     644     384872    `

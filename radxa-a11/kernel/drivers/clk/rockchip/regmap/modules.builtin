@@ -1,0 +1,3 @@
+kernel/drivers/clk/rockchip/regmap/clk-rockchip-regmap.ko
+kernel/drivers/clk/rockchip/regmap/clk-rk618.ko
+kernel/drivers/clk/rockchip/regmap/clk-rk628.ko

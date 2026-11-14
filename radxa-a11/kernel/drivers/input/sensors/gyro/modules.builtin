@@ -1,0 +1,6 @@
+kernel/drivers/input/sensors/gyro/l3g4200d.ko
+kernel/drivers/input/sensors/gyro/l3g20d.ko
+kernel/drivers/input/sensors/gyro/ewtsa.ko
+kernel/drivers/input/sensors/gyro/mpu6500_gyro.ko
+kernel/drivers/input/sensors/gyro/mpu6880_gyro.ko
+kernel/drivers/input/sensors/gyro/lsm330_gyro.ko

@@ -1,0 +1,2 @@
+kernel/drivers/input/keyboard/adc-keys.ko
+kernel/drivers/input/keyboard/gpio_keys.ko

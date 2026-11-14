@@ -1,0 +1,9 @@
+kernel/drivers/gpu/drm/rockchip/rk628/rk628_combrxphy.ko
+kernel/drivers/gpu/drm/rockchip/rk628/rk628_combtxphy.ko
+kernel/drivers/gpu/drm/rockchip/rk628/rk628_dsi.ko
+kernel/drivers/gpu/drm/rockchip/rk628/rk628_gvi.ko
+kernel/drivers/gpu/drm/rockchip/rk628/rk628_lvds.ko
+kernel/drivers/gpu/drm/rockchip/rk628/rk628_post_process.ko
+kernel/drivers/gpu/drm/rockchip/rk628/rk628_rgb.ko
+kernel/drivers/gpu/drm/rockchip/rk628/rk628_hdmi.ko
+kernel/drivers/gpu/drm/rockchip/rk628/rk628_hdmirx.ko

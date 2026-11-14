@@ -1,0 +1,78 @@
+!<thin>
+//                                              1052      `
+of_touchscreen.o/
+gslx6801.o/
+gsl_point_id.o/
+gslx680_pad.o/
+gslx680.o/
+gsl3673.o/
+gsl3673_800x1280.o/
+gsl3676/gsl3676.o/
+gt9xx/gt9xx.o/
+gt9xx/gt9xx_update.o/
+wacom_w9013.o/
+rockpi_ft5406.o/
+gt1x/gt1x_extents.o/
+gt1x/gt1x_generic.o/
+gt1x/gt1x_tools.o/
+gt1x/gt1x.o/
+gt1x/gt1x_update.o/
+hyn_cst2xx/hyn_cst2xx.o/
+focaltech_touch/focaltech_core.o/
+focaltech_touch/focaltech_ex_fun.o/
+focaltech_touch/focaltech_ex_mode.o/
+focaltech_touch/focaltech_flash.o/
+focaltech_touch/focaltech_gesture.o/
+focaltech_touch/focaltech_esdcheck.o/
+focaltech_touch/focaltech_i2c.o/
+focaltech_touch/focaltech_point_report_check.o/
+focaltech_touch/focaltech_flash/focaltech_upgrade_ft8201.o/
+focaltech_touch/focaltech_test/focaltech_test.o/
+focaltech_touch/focaltech_test/focaltech_test_ini.o/
+focaltech_touch/focaltech_test/supported_ic/focaltech_test_ft8201.o/
+cyttsp5/cyttsp5_core.o/
+cyttsp5/cyttsp5_mt_common.o/
+cyttsp5/cyttsp5_mtb.o/
+cyttsp5/cyttsp5_devtree.o/
+cyttsp5/cyttsp5_platform.o/
+cyttsp5/cyttsp5_i2c.o/
+cyttsp5/cyttsp5_loader.o/
+cyttsp5/cyttsp5_device_access.o/
+/0              0           0     0     644     150464    `
+/18             0           0     0     644     389784    `
+/30             0           0     0     644     148488    `
+/46             0           0     0     644     432832    `
+/61             0           0     0     644     432184    `
+/72             0           0     0     644     378504    `
+/83             0           0     0     644     379912    `
+/103            0           0     0     644     384592    `
+/122            0           0     0     644     344520    `
+/137            0           0     0     644     362112    `
+/159            0           0     0     644     265440    `
+/174           /0           0     0     644     177768    `
+/191            0           0     0     644     3176      `
+/212            0           0     0     644     273248    `
+/233            0           0     0     644     141912    `
+/252            0           0     0     644     278192    `
+/265            0           0     0     644     218504    `
+/285            0           0     0     644     365640    `
+/310            0           0     0     644     398712    `
+/344            0           0     0     644     1224      `
+/380            0           0     0     644     278632    `
+/417            0           0     0     644     362096    `
+/452            0           0     0     644     1224      `
+/489            0           0     0     644     1232      `
+/527           /0           0     0     644     286352    `
+/560            0           0     0     644     1240      `
+/608            0           0     0     644     334664    `
+/668            0           0     0     644     474512    `
+/717            0           0     0     644     446736    `
+/770            0           0     0     644     384872    `
+/839            0           0     0     644     701248    `
+/863            0           0     0     644     264992    `
+/892            0           0     0     644     205888    `
+/915            0           0     0     644     246472    `
+/942            0           0     0     644     208000    `
+/970            0           0     0     644     236280    `
+/993            0           0     0     644     274592    `
+/1019           0           0     0     644     702728    `

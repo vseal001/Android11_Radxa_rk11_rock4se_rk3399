@@ -1,0 +1,7 @@
+kernel/drivers/gpu/drm/rockchip/rk618/rk618_scaler.ko
+kernel/drivers/gpu/drm/rockchip/rk618/rk618_vif.ko
+kernel/drivers/gpu/drm/rockchip/rk618/rk618_dither.ko
+kernel/drivers/gpu/drm/rockchip/rk618/rk618_lvds.ko
+kernel/drivers/gpu/drm/rockchip/rk618/rk618_rgb.ko
+kernel/drivers/gpu/drm/rockchip/rk618/rk618_hdmi.ko
+kernel/drivers/gpu/drm/rockchip/rk618/rk618_dsi.ko

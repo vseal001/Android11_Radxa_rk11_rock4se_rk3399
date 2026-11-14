@@ -1,0 +1,67 @@
+!<thin>
+//                                              794       `
+rockchip/cif/dev.o/
+rockchip/cif/capture.o/
+rockchip/cif/mipi-csi2.o/
+rockchip/cif/cif-luma.o/
+rockchip/cif/hw.o/
+rockchip/cif/subdev-itf.o/
+rockchip/cif/procfs.o/
+rockchip/isp1/rkisp1.o/
+rockchip/isp1/dev.o/
+rockchip/isp1/regs.o/
+rockchip/isp1/isp_stats.o/
+rockchip/isp1/isp_params.o/
+rockchip/isp1/capture.o/
+rockchip/isp1/dmarx.o/
+rockchip/isp/hw.o/
+rockchip/isp/dev.o/
+rockchip/isp/rkisp.o/
+rockchip/isp/regs.o/
+rockchip/isp/common.o/
+rockchip/isp/isp_stats.o/
+rockchip/isp/isp_params.o/
+rockchip/isp/capture.o/
+rockchip/isp/dmarx.o/
+rockchip/isp/csi.o/
+rockchip/isp/procfs.o/
+rockchip/isp/videobuf2-rdma-sg.o/
+rockchip/isp/isp_stats_v1x.o/
+rockchip/isp/isp_params_v1x.o/
+rockchip/isp/capture_v1x.o/
+rockchip/isp/isp_stats_v21.o/
+rockchip/isp/isp_params_v21.o/
+rockchip/isp/capture_v21.o/
+
+/0              0           0     0     644     338480    `
+/20             0           0     0     644     558232    `
+/44             0           0     0     644     242448    `
+/70             0           0     0     644     275568    `
+/95             0           0     0     644     256872    `
+/114            0           0     0     644     228848    `
+/141            0           0     0     644     218608    `
+/164            0           0     0     644     347672    `
+/188            0           0     0     644     323264    `
+/209            0           0     0     644     230048    `
+/231            0           0     0     644     304928    `
+/258            0           0     0     644     601800    `
+/286            0           0     0     644     387808    `
+/311            0           0     0     644     294792    `
+/334            0           0     0     644     385152    `
+/353            0           0     0     644     393656    `
+/373            0           0     0     644     538208    `
+/395            0           0     0     644     300640    `
+/416            0           0     0     644     325040    `
+/439            0           0     0     644     357208    `
+/465            0           0     0     644     358528    `
+/492            0           0     0     644     412184    `
+/516            0           0     0     644     409304    `
+/538            0           0     0     644     348920    `
+/558            0           0     0     644     320408    `
+/581            0           0     0     644     194624    `
+/615           /0           0     0     644     370936    `
+/645            0           0     0     644     672080    `
+/676            0           0     0     644     422776    `
+/704           /0           0     0     644     383488    `
+/734            0           0     0     644     654728    `
+/765            0           0     0     644     450352    `

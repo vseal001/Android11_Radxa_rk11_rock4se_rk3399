@@ -1,0 +1,6 @@
+kernel/drivers/clk/clk-pwm.ko
+kernel/drivers/clk/clk-rk808.ko
+kernel/drivers/clk/clk-scmi.ko
+kernel/drivers/clk/rockchip/regmap/clk-rockchip-regmap.ko
+kernel/drivers/clk/rockchip/regmap/clk-rk618.ko
+kernel/drivers/clk/rockchip/regmap/clk-rk628.ko

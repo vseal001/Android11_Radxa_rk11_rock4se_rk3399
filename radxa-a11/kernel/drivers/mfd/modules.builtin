@@ -1,0 +1,7 @@
+kernel/drivers/mfd/mfd-core.ko
+kernel/drivers/mfd/rk628.ko
+kernel/drivers/mfd/rk630.ko
+kernel/drivers/mfd/rk630-i2c.ko
+kernel/drivers/mfd/rk808.ko
+kernel/drivers/mfd/rk1000-core.ko
+kernel/drivers/mfd/fusb302.ko

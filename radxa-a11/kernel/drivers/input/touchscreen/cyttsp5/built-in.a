@@ -1,0 +1,19 @@
+!<thin>
+//                                              150       `
+cyttsp5_core.o/
+cyttsp5_mt_common.o/
+cyttsp5_mtb.o/
+cyttsp5_devtree.o/
+cyttsp5_platform.o/
+cyttsp5_i2c.o/
+cyttsp5_loader.o/
+cyttsp5_device_access.o/
+
+/0              0           0     0     644     701248    `
+/16             0           0     0     644     264992    `
+/37             0           0     0     644     205888    `
+/52             0           0     0     644     246472    `
+/71             0           0     0     644     208000    `
+/91             0           0     0     644     236280    `
+/106            0           0     0     644     274592    `
+/124            0           0     0     644     702728    `
