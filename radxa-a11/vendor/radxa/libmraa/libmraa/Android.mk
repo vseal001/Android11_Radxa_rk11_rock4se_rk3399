@@ -1,0 +1,88 @@
+LOCAL_PATH := $(call my-dir)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := libmraa-proxy
+LOCAL_MODULE_TAGS := optional
+LOCAL_MULTILIB := both
+LOCAL_MODULE_CLASS := SHARED_LIBRARIES
+LOCAL_MODULE_SUFFIX := .so
+LOCAL_SRC_FILES_32 := lib/libmraa-proxy.so
+LOCAL_SRC_FILES_64 := lib64/libmraa-proxy.so
+LOCAL_SHARED_LIBRARIES := libbinder libutils libc++ libc libm libdl
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := libmraa
+LOCAL_MODULE_TAGS := optional
+LOCAL_MULTILIB := both
+LOCAL_MODULE_CLASS := SHARED_LIBRARIES
+LOCAL_MODULE_SUFFIX := .so
+LOCAL_SRC_FILES_32 := lib/libmraa.so
+LOCAL_SRC_FILES_64 := lib64/libmraa.so
+LOCAL_REQUIRED_MODULES := libmraa-proxy
+LOCAL_SHARED_LIBRARIES := libc++ libc libdl libm libmraa-proxy
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := mraad
+LOCAL_INIT_RC := mraad.rc
+LOCAL_MODULE_TAGS := optional
+LOCAL_MODULE_CLASS := EXECUTABLES
+LOCAL_MODULE_STEM := $(LOCAL_MODULE)
+LOCAL_SRC_FILES := bin/$(LOCAL_MODULE)
+LOCAL_SHARED_LIBRARIES := libbinder libc++ libc libdl liblog libm libmraa-proxy libmraa libutils
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := mraa-gpio
+LOCAL_MODULE_TAGS := optional
+LOCAL_MODULE_CLASS := EXECUTABLES
+LOCAL_MODULE_STEM := $(LOCAL_MODULE)
+LOCAL_SRC_FILES := bin/$(LOCAL_MODULE)
+LOCAL_SHARED_LIBRARIES := libmraa libc++ libc libm libdl
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := mraa-i2c
+LOCAL_MODULE_TAGS := optional
+LOCAL_MODULE_CLASS := EXECUTABLES
+LOCAL_MODULE_STEM := $(LOCAL_MODULE)
+LOCAL_SRC_FILES := bin/$(LOCAL_MODULE)
+LOCAL_SHARED_LIBRARIES := libmraa libc++ libc libm libdl
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := mraa-uart
+LOCAL_MODULE_TAGS := optional
+LOCAL_MODULE_CLASS := EXECUTABLES
+LOCAL_MODULE_STEM := $(LOCAL_MODULE)
+LOCAL_SRC_FILES := bin/$(LOCAL_MODULE)
+LOCAL_SHARED_LIBRARIES := libmraa libc++ libc libm libdl
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := mraa-adc
+LOCAL_MODULE_TAGS := optional
+LOCAL_MODULE_CLASS := EXECUTABLES
+LOCAL_MODULE_STEM := $(LOCAL_MODULE)
+LOCAL_SRC_FILES := bin/$(LOCAL_MODULE)
+LOCAL_SHARED_LIBRARIES := libmraa libc++ libc libm libdl
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := mraa-pwm
+LOCAL_MODULE_TAGS := optional
+LOCAL_MODULE_CLASS := EXECUTABLES
+LOCAL_MODULE_STEM := $(LOCAL_MODULE)
+LOCAL_SRC_FILES := bin/$(LOCAL_MODULE)
+LOCAL_SHARED_LIBRARIES := libmraa libc++ libc libm libdl
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := mraa-spi
+LOCAL_MODULE_TAGS := optional
+LOCAL_MODULE_CLASS := EXECUTABLES
+LOCAL_MODULE_STEM := $(LOCAL_MODULE)
+LOCAL_SRC_FILES := bin/$(LOCAL_MODULE)
+LOCAL_SHARED_LIBRARIES := libmraa libc++ libc libm libdl
+include $(BUILD_PREBUILT)

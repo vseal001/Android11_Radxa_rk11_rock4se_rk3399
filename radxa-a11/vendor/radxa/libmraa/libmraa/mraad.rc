@@ -1,0 +1,4 @@
+service mraad /system/bin/mraad
+    class main
+    oneshot
+    seclabel u:r:init:s0
