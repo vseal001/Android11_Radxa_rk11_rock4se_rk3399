@@ -1,0 +1,42 @@
+
+type usb_otg, domain;
+type usb_otg_exec, exec_type, vendor_file_type, file_type;
+init_daemon_domain(usb_otg);
+allow usb_otg rootfs:dir r_dir_perms;
+allow usb_otg proc_uid_cpupower:file write;
+# allow usb_otg debugfs:file write;
+allow usb_otg tmpfs:dir create;
+allow usb_otg vendor_file:system { module_load };
+
+allow usb_otg vendor_toolbox_exec:file execute_no_trans;
+allow usb_otg proc:file rw_file_perms;
+allow usb_otg self:capability { sys_module };
+allow usb_otg system_file:system { module_load };
+allow usb_otg block_device:lnk_file { relabelfrom relabelto };
+allow usb_otg boot_block_device:lnk_file { relabelfrom relabelto };
+allow usb_otg uboot_block_device:lnk_file { relabelfrom relabelto };
+allow usb_otg vbmeta_block_device:lnk_file { relabelfrom relabelto };
+allow usb_otg userdata_block_device:lnk_file { relabelto };
+allow usb_otg baseparameter_block_device:lnk_file { relabelto setattr };
+allow usb_otg baseparameter_block_device:blk_file { setattr write };
+allow usb_otg gpu_data_file:file { getattr };
+allow usb_otg e2fsck_oem_block_device:lnk_file { relabelto };
+allow usb_otg frp_block_device:lnk_file { relabelto };
+allow usb_otg metadata_block_device:lnk_file { relabelto };
+allow usb_otg recovery_block_device:lnk_file { relabelto };
+allow usb_otg misc_block_device:lnk_file { relabelto };
+allow usb_otg e2fsck_cache_block_device:lnk_file { relabelto };
+allow usb_otg security_block_device:lnk_file { relabelto };
+allow usb_otg device:lnk_file { create write};
+allow usb_otg tmpfs:dir { write add_name create };
+# allow usb_otg debugfs_trace_marker:file { getattr };
+allow usb_otg sysfs_dmc:lnk_file { setattr };
+allow usb_otg sysfs:file { getattr };
+
+set_prop(usb_otg, vendor_system_public_prop)
+set_prop(usb_otg, vendor_boot_complete_prop)
+get_prop(usb_otg, public_vendor_default_prop)
+get_prop(usb_otg, vendor_system_public_prop)
+get_prop(usb_otg, vendor_drm_prop)
+
+
