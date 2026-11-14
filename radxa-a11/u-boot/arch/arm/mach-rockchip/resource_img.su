@@ -1,0 +1,12 @@
+resource_img.c:595:12:do_dump_resource	48	static
+resource_img.c:106:12:board_resource_dtb_accepted	0	static
+resource_img.c:135:12:add_file_to_list	64	static
+resource_img.c:111:5:resource_image_check_header	16	static
+resource_img.c:166:5:resource_replace_entry	64	static
+resource_img.c:203:5:resource_create_ram_list	64	static
+resource_img.c:425:5:resource_init_list	224	static
+resource_img.c:452:30:get_file_info	48	static
+resource_img.c:447:5:resource_is_empty	0	static
+resource_img.c:478:5:rockchip_read_resource_file	64	static
+resource_img.c:548:5:rockchip_read_resource_dtb	96	static
+resource_img.c:577:5:resource_traverse_init_list	0	static

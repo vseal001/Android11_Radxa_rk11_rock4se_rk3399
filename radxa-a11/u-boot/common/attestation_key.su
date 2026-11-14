@@ -1,0 +1,9 @@
+attestation_key.c:92:13:free_cert_chain	48	static
+attestation_key.c:228:17:write_cert_chain_length	96	static
+attestation_key.c:110:13:copy_uint32_from_buf	32	static
+attestation_key.c:115:13:copy_blob_from_buf	32	static
+attestation_key.c:201:17:write_key	96	static
+attestation_key.c:133:13:copy_cert_chain_from_buf	224	static
+attestation_key.c:243:13:load_attestation_key	66624	static
+attestation_key.c:395:13:read_key_data	352	static
+attestation_key.c:433:13:write_attestation_key_to_secure_storage	65696	static

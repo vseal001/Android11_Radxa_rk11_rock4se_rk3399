@@ -1,0 +1,1 @@
+cmd_board/rockchip/evb_rk3399/built-in.o :=  /workspace/radxa-a11/prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld.bfd     -r -o board/rockchip/evb_rk3399/built-in.o board/rockchip/evb_rk3399/evb-rk3399.o 

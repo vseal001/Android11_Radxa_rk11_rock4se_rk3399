@@ -1,0 +1,1 @@
+cmd_u-boot.img := ./tools/mkimage -f auto -A arm -T firmware -C none -O u-boot -a 0x00200000 -e 0 -n "U-Boot 2017.09""-gd409164-dirty \$(pound) for evb_rk3399 board" -E -b arch/arm/dts/rockpi-4b.dtb -d u-boot-nodtb.bin u-boot.img  >/dev/null
