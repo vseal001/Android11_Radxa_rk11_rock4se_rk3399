@@ -1,0 +1,1 @@
+cmd_drivers/pps/built-in.a :=  rm -f drivers/pps/built-in.a; ./../prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar rcSTPD drivers/pps/built-in.a drivers/pps/pps.o drivers/pps/kapi.o drivers/pps/sysfs.o drivers/pps/clients/built-in.a drivers/pps/generators/built-in.a

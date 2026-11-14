@@ -1,0 +1,79 @@
+!<thin>
+//                                              592       `
+access.o/
+bus.o/
+probe.o/
+host-bridge.o/
+remove.o/
+pci.o/
+pci-driver.o/
+search.o/
+pci-sysfs.o/
+rom.o/
+setup-res.o/
+irq.o/
+vpd.o/
+setup-bus.o/
+vc.o/
+mmap.o/
+setup-irq.o/
+proc.o/
+slot.o/
+of.o/
+quirks.o/
+pcie/portdrv_core.o/
+pcie/portdrv_pci.o/
+pcie/err.o/
+pcie/aspm.o/
+pcie/aer.o/
+pcie/pme.o/
+msi.o/
+syscall.o/
+controller/pcie-rockchip.o/
+controller/pcie-rockchip-host.o/
+controller/dwc/pcie-designware.o/
+controller/dwc/pcie-designware-host.o/
+controller/dwc/pcie-dw-rockchip.o/
+controller/dwc/pcie-hisi.o/
+controller/pci-thunder-ecam.o/
+controller/pci-thunder-pem.o/
+controller/pci-xgene.o/
+
+/0              0           0     0     644     247920    `
+/10             0           0     0     644     183664    `
+/17             0           0     0     644     408488    `
+/26             0           0     0     644     148672    `
+/41             0           0     0     644     161120    `
+/51             0           0     0     644     738464    `
+/58             0           0     0     644     301104    `
+/72             0           0     0     644     176552    `
+/82             0           0     0     644     257304    `
+/95             0           0     0     644     151880    `
+/102            0           0     0     644     157456    `
+/115            0           0     0     644     141608    `
+/122            0           0     0     644     187912    `
+/129            0           0     0     644     367448    `
+/142            0           0     0     644     158360    `
+/148            0           0     0     644     130792    `
+/156            0           0     0     644     130960    `
+/169            0           0     0     644     287840    `
+/177            0           0     0     644     167712    `
+/185            0           0     0     644     196376    `
+/191            0           0     0     644     587848    `
+/201            0           0     0     644     171360    `
+/222            0           0     0     644     148288    `
+/242            0           0     0     644     160680    `
+/254            0           0     0     644     225160    `
+/267            0           0     0     644     238560    `
+/279            0           0     0     644     175712    `
+/291            0           0     0     644     292680    `
+/298            0           0     0     644     272136    `
+/309           /0           0     0     644     235728    `
+/337            0           0     0     644     391248    `
+/370            0           0     0     644     248320    `
+/404            0           0     0     644     218672    `
+/443            0           0     0     644     415040    `
+/478            0           0     0     644     1216      `
+/506            0           0     0     644     1224      `
+/537            0           0     0     644     1224      `
+/567            0           0     0     644     1216      `

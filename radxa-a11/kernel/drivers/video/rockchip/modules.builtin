@@ -1,0 +1,3 @@
+kernel/drivers/video/rockchip/iep/iep.ko
+kernel/drivers/video/rockchip/mpp/rk_vcodec.ko
+kernel/drivers/video/rockchip/rga2/rga2.ko

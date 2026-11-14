@@ -1,0 +1,1 @@
+cmd_init/built-in.a :=  rm -f init/built-in.a; ./../prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar rcSTPD init/built-in.a init/main.o init/version.o init/do_mounts.o init/do_mounts_rd.o init/do_mounts_initrd.o init/noinitramfs.o init/initramfs.o init/calibrate.o init/init_task.o

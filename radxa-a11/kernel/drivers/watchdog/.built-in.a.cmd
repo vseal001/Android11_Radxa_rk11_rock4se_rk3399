@@ -1,0 +1,1 @@
+cmd_drivers/watchdog/built-in.a :=  rm -f drivers/watchdog/built-in.a; ./../prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar rcSTPD drivers/watchdog/built-in.a drivers/watchdog/watchdog_core.o drivers/watchdog/watchdog_dev.o drivers/watchdog/dw_wdt.o

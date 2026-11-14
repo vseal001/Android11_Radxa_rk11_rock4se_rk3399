@@ -1,0 +1,26 @@
+!<thin>
+//                                              228       `
+rockchip-cpuinfo.o/
+grf.o/
+pm_domains.o/
+rk_fiq_debugger.o/
+rk_vendor_storage.o/
+sdmmc_vendor_storage.o/
+rockchip_ipa.o/
+rockchip_opp_select.o/
+rockchip_pvtm.o/
+rockchip_pm_config.o/
+rockchip_system_monitor.o/
+rockchip_debug.o/
+/0              0           0     0     644     104144    `
+/20             0           0     0     644     54264     `
+/27             0           0     0     644     292160    `
+/41             0           0     0     644     317840    `
+/60             0           0     0     644     10480     `
+/81             0           0     0     644     219264    `
+/105            0           0     0     644     244208    `
+/121            0           0     0     644     292816    `
+/144           /0           0     0     644     197536    `
+/161            0           0     0     644     221800    `
+/183            0           0     0     644     392896    `
+/210            0           0     0     644     96656     `

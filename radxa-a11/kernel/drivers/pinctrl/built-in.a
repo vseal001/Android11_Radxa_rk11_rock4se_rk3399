@@ -1,0 +1,21 @@
+!<thin>
+//                                              134       `
+core.o/
+pinctrl-utils.o/
+pinmux.o/
+pinconf.o/
+devicetree.o/
+pinconf-generic.o/
+pinctrl-rockchip.o/
+pinctrl-rk628.o/
+pinctrl-rk805.o/
+
+/0              0           0     0     644     361064    `
+/8             /0           0     0     644     136344    `
+/25             0           0     0     644     171728    `
+/35             0           0     0     644     170384    `
+/46             0           0     0     644     157688    `
+/60             0           0     0     644     167232    `
+/79             0           0     0     644     300808    `
+/99            /0           0     0     644     318208    `
+/116           /0           0     0     644     252952    `

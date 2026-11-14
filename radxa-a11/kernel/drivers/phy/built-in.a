@@ -1,0 +1,35 @@
+!<thin>
+//                                              546       `
+phy-core.o/
+rockchip/phy-rockchip-csi2-dphy-hw.o/
+rockchip/phy-rockchip-csi2-dphy.o/
+rockchip/phy-rockchip-emmc.o/
+rockchip/phy-rockchip-inno-hdmi-phy.o/
+rockchip/phy-rockchip-inno-mipi-dphy.o/
+rockchip/phy-rockchip-inno-usb2.o/
+rockchip/phy-rockchip-inno-usb3.o/
+rockchip/phy-rockchip-inno-video-combo-phy.o/
+rockchip/phy-rockchip-mipi-rx.o/
+rockchip/phy-rockchip-naneng-combphy.o/
+rockchip/phy-rockchip-naneng-edp.o/
+rockchip/phy-rockchip-pcie.o/
+rockchip/phy-rockchip-snps-pcie3.o/
+rockchip/phy-rockchip-typec.o/
+rockchip/phy-rockchip-usb.o/
+
+/0              0           0     0     644     310760    `
+/12             0           0     0     644     243384    `
+/50             0           0     0     644     221984    `
+/85             0           0     0     644     204624    `
+/115            0           0     0     644     328944    `
+/154            0           0     0     644     257664    `
+/194            0           0     0     644     450352    `
+/229            0           0     0     644     312184    `
+/264            0           0     0     644     287856    `
+/310            0           0     0     644     316656    `
+/343            0           0     0     644     263400    `
+/383            0           0     0     644     214680    `
+/419            0           0     0     644     213264    `
+/449            0           0     0     644     204224    `
+/485            0           0     0     644     348400    `
+/516            0           0     0     644     271816    `

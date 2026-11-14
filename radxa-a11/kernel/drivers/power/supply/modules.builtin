@@ -1,0 +1,6 @@
+kernel/drivers/power/supply/test_power.ko
+kernel/drivers/power/supply/bq25700_charger.ko
+kernel/drivers/power/supply/rk817_battery.ko
+kernel/drivers/power/supply/rk817_charger.ko
+kernel/drivers/power/supply/rk818_battery.ko
+kernel/drivers/power/supply/rk818_charger.ko

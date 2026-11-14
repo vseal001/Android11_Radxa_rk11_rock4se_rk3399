@@ -1,0 +1,31 @@
+!<thin>
+//                                              352       `
+avs/rockchip-io-domain.o/
+reset/gpio-poweroff.o/
+reset/reboot-mode.o/
+reset/syscon-reboot-mode.o/
+supply/power_supply_core.o/
+supply/power_supply_sysfs.o/
+supply/power_supply_leds.o/
+supply/test_power.o/
+supply/bq25700_charger.o/
+supply/cw2015_battery.o/
+supply/rk817_battery.o/
+supply/rk817_charger.o/
+supply/rk818_battery.o/
+supply/rk818_charger.o/
+
+/0              0           0     0     644     224536    `
+/26            /0           0     0     644     56152     `
+/49             0           0     0     644     71136     `
+/70             0           0     0     644     58632     `
+/98             0           0     0     644     231744    `
+/126            0           0     0     644     134096    `
+/155            0           0     0     644     89912     `
+/183            0           0     0     644     142224    `
+/204            0           0     0     644     350384    `
+/230            0           0     0     644     248416    `
+/255           /0           0     0     644     677400    `
+/279           /0           0     0     644     365904    `
+/303           /0           0     0     644     793144    `
+/327           /0           0     0     644     401176    `

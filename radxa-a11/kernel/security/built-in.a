@@ -1,0 +1,106 @@
+!<thin>
+//                                              1230      `
+keys/gc.o/
+keys/key.o/
+keys/keyring.o/
+keys/keyctl.o/
+keys/permission.o/
+keys/process_keys.o/
+keys/request_key.o/
+keys/request_key_auth.o/
+keys/user_defined.o/
+keys/compat.o/
+keys/proc.o/
+keys/sysctl.o/
+commoncap.o/
+min_addr.o/
+security.o/
+selinux/avc.o/
+selinux/hooks.o/
+selinux/selinuxfs.o/
+selinux/netlink.o/
+selinux/nlmsgtab.o/
+selinux/netif.o/
+selinux/netnode.o/
+selinux/netport.o/
+selinux/ibpkey.o/
+selinux/exports.o/
+selinux/ss/ebitmap.o/
+selinux/ss/hashtab.o/
+selinux/ss/symtab.o/
+selinux/ss/sidtab.o/
+selinux/ss/avtab.o/
+selinux/ss/policydb.o/
+selinux/ss/services.o/
+selinux/ss/conditional.o/
+selinux/ss/mls.o/
+selinux/ss/status.o/
+lsm_audit.o/
+optee_linuxdriver/core/tee_core.o/
+optee_linuxdriver/core/tee_context.o/
+optee_linuxdriver/core/tee_session.o/
+optee_linuxdriver/core/tee_shm.o/
+optee_linuxdriver/core/tee_supp_com.o/
+optee_linuxdriver/core/tee_sysfs.o/
+optee_linuxdriver/core/tee_debugfs.o/
+optee_linuxdriver/core/tee_kernel_api.o/
+optee_linuxdriver/core/tee_mutex_wait.o/
+optee_linuxdriver/core/tee_wait_queue.o/
+optee_linuxdriver/armtz/tee_tz_drv.o/
+optee_linuxdriver/armtz/tee_mem.o/
+optee_linuxdriver/armtz/handle.o/
+optee_linuxdriver/armtz/tee_smc-arm64.o/
+integrity/iint.o/
+integrity/integrity_audit.o/
+/0              0           0     0     644     154584    `
+/11             0           0     0     644     221728    `
+/23             0           0     0     644     204176    `
+/39             0           0     0     644     303376    `
+/54             0           0     0     644     121360    `
+/73             0           0     0     644     170888    `
+/94             0           0     0     644     169520    `
+/114            0           0     0     644     138712    `
+/139            0           0     0     644     136408    `
+/160            0           0     0     644     16376     `
+/175            0           0     0     644     148752    `
+/188            0           0     0     644     7064      `
+/203            0           0     0     644     301960    `
+/216            0           0     0     644     10824     `
+/228            0           0     0     644     562392    `
+/240            0           0     0     644     525984    `
+/255            0           0     0     644     1191528   `
+/272            0           0     0     644     512496    `
+/293            0           0     0     644     64144     `
+/312            0           0     0     644     12848     `
+/332            0           0     0     644     342640    `
+/349            0           0     0     644     29880     `
+/368            0           0     0     644     25376     `
+/387            0           0     0     644     25776     `
+/405            0           0     0     644     4512      `
+/424            0           0     0     644     37816     `
+/446            0           0     0     644     17984     `
+/468            0           0     0     644     6536      `
+/489            0           0     0     644     55344     `
+/510            0           0     0     644     67776     `
+/530            0           0     0     644     248032    `
+/553            0           0     0     644     592360    `
+/576            0           0     0     644     59608     `
+/602            0           0     0     644     55408     `
+/620            0           0     0     644     323808    `
+/641            0           0     0     644     351040    `
+/654            0           0     0     644     273120    `
+/689            0           0     0     644     154568    `
+/727            0           0     0     644     238696    `
+/765            0           0     0     644     196440    `
+/799            0           0     0     644     154504    `
+/838            0           0     0     644     147960    `
+/874            0           0     0     644     134784    `
+/912            0           0     0     644     158816    `
+/953            0           0     0     644     52208     `
+/994            0           0     0     644     46080     `
+/1035           0           0     0     644     223968    `
+/1073           0           0     0     644     65496     `
+/1108           0           0     0     644     6120      `
+/1142          /0           0     0     644     1856      `
+/1183           0           0     0     644     139184    `
+/1201           0           0     0     644     109992    `

@@ -1,0 +1,32 @@
+!<thin>
+//                                              398       `
+phy-rockchip-csi2-dphy-hw.o/
+phy-rockchip-csi2-dphy.o/
+phy-rockchip-emmc.o/
+phy-rockchip-inno-hdmi-phy.o/
+phy-rockchip-inno-mipi-dphy.o/
+phy-rockchip-inno-usb2.o/
+phy-rockchip-inno-usb3.o/
+phy-rockchip-inno-video-combo-phy.o/
+phy-rockchip-mipi-rx.o/
+phy-rockchip-naneng-combphy.o/
+phy-rockchip-naneng-edp.o/
+phy-rockchip-pcie.o/
+phy-rockchip-snps-pcie3.o/
+phy-rockchip-typec.o/
+phy-rockchip-usb.o/
+/0              0           0     0     644     243384    `
+/29             0           0     0     644     221984    `
+/55             0           0     0     644     204624    `
+/76             0           0     0     644     328944    `
+/106            0           0     0     644     257664    `
+/137            0           0     0     644     450352    `
+/163            0           0     0     644     312184    `
+/189            0           0     0     644     287856    `
+/226            0           0     0     644     316656    `
+/250            0           0     0     644     263400    `
+/281            0           0     0     644     214680    `
+/308            0           0     0     644     213264    `
+/329            0           0     0     644     204224    `
+/356            0           0     0     644     348400    `
+/378            0           0     0     644     271816    `

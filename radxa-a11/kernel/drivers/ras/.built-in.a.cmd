@@ -1,0 +1,1 @@
+cmd_drivers/ras/built-in.a :=  rm -f drivers/ras/built-in.a; ./../prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar rcSTPD drivers/ras/built-in.a drivers/ras/ras.o drivers/ras/debugfs.o

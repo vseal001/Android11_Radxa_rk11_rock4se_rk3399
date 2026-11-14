@@ -1,0 +1,53 @@
+!<thin>
+//                                              454       `
+usbstring.o/
+config.o/
+epautoconf.o/
+composite.o/
+functions.o/
+configfs.o/
+u_f.o/
+udc/core.o/
+udc/trace.o/
+function/f_acm.o/
+function/u_serial.o/
+function/u_ether.o/
+function/f_rndis.o/
+function/rndis.o/
+function/f_mass_storage.o/
+function/storage_common.o/
+function/f_fs.o/
+function/f_uvc.o/
+function/uvc_queue.o/
+function/uvc_v4l2.o/
+function/uvc_video.o/
+function/uvc_configfs.o/
+function/f_midi.o/
+function/f_accessory.o/
+function/f_audio_source.o/
+
+/0              0           0     0     644     7248      `
+/13             0           0     0     644     213328    `
+/23             0           0     0     644     146128    `
+/37             0           0     0     644     360104    `
+/50             0           0     0     644     159112    `
+/63             0           0     0     644     357760    `
+/75             0           0     0     644     13544     `
+/82             0           0     0     644     407472    `
+/94             0           0     0     644     271648    `
+/107            0           0     0     644     183904    `
+/125            0           0     0     644     266000    `
+/146            0           0     0     644     376760    `
+/166            0           0     0     644     333736    `
+/186            0           0     0     644     349264    `
+/204            0           0     0     644     466248    `
+/231            0           0     0     644     226544    `
+/258            0           0     0     644     541648    `
+/275            0           0     0     644     267624    `
+/293            0           0     0     644     175176    `
+/315            0           0     0     644     251544    `
+/336            0           0     0     644     219888    `
+/358            0           0     0     644     408488    `
+/383            0           0     0     644     263432    `
+/402            0           0     0     644     355008    `
+/426            0           0     0     644     245144    `

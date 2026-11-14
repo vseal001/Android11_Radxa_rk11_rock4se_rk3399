@@ -1,0 +1,10 @@
+kernel/drivers/soc/rockchip/rockchip-cpuinfo.ko
+kernel/drivers/soc/rockchip/grf.ko
+kernel/drivers/soc/rockchip/pm_domains.ko
+kernel/drivers/soc/rockchip/sdmmc_vendor_storage.ko
+kernel/drivers/soc/rockchip/rockchip_ipa.ko
+kernel/drivers/soc/rockchip/rockchip_opp_select.ko
+kernel/drivers/soc/rockchip/rockchip_pvtm.ko
+kernel/drivers/soc/rockchip/rockchip_pm_config.ko
+kernel/drivers/soc/rockchip/rockchip_system_monitor.ko
+kernel/drivers/soc/rockchip/rockchip_debug.ko

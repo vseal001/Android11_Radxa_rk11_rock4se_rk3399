@@ -1,0 +1,29 @@
+!<thin>
+//                                              216       `
+thermal_core.o/
+thermal_sysfs.o/
+thermal_helpers.o/
+thermal_hwmon.o/
+of-thermal.o/
+fair_share.o/
+step_wise.o/
+user_space.o/
+power_allocator.o/
+cpu_cooling.o/
+devfreq_cooling.o/
+rockchip_thermal.o/
+rk3368_thermal.o/
+
+/0              0           0     0     644     552808    `
+/16            /0           0     0     644     112960    `
+/33             0           0     0     644     94616     `
+/52            /0           0     0     644     67792     `
+/69             0           0     0     644     328056    `
+/83             0           0     0     644     84576     `
+/97             0           0     0     644     86208     `
+/110            0           0     0     644     47168     `
+/124            0           0     0     644     281320    `
+/143            0           0     0     644     147120    `
+/158            0           0     0     644     122968    `
+/177            0           0     0     644     237856    `
+/197            0           0     0     644     285024    `

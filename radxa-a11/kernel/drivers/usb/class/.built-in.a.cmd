@@ -1,0 +1,1 @@
+cmd_drivers/usb/class/built-in.a :=  rm -f drivers/usb/class/built-in.a; ./../prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar rcSTPD drivers/usb/class/built-in.a drivers/usb/class/cdc-acm.o drivers/usb/class/usblp.o drivers/usb/class/cdc-wdm.o

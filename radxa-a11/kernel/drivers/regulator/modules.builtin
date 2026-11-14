@@ -1,0 +1,11 @@
+kernel/drivers/regulator/fixed.ko
+kernel/drivers/regulator/act8865-regulator.ko
+kernel/drivers/regulator/fan53555.ko
+kernel/drivers/regulator/gpio-regulator.ko
+kernel/drivers/regulator/lp8752.ko
+kernel/drivers/regulator/mp8865-regulator.ko
+kernel/drivers/regulator/pwm-regulator.ko
+kernel/drivers/regulator/rk808-regulator.ko
+kernel/drivers/regulator/tps65132-regulator.ko
+kernel/drivers/regulator/xz3216.ko
+kernel/drivers/regulator/dio5632-regulator.ko

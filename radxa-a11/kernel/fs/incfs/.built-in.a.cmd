@@ -1,0 +1,1 @@
+cmd_fs/incfs/built-in.a :=  rm -f fs/incfs/built-in.a; ./../prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar rcSTPD fs/incfs/built-in.a fs/incfs/data_mgmt.o fs/incfs/format.o fs/incfs/integrity.o fs/incfs/main.o fs/incfs/vfs.o

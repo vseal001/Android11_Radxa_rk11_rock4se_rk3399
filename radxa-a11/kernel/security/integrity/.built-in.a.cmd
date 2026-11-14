@@ -1,0 +1,1 @@
+cmd_security/integrity/built-in.a :=  rm -f security/integrity/built-in.a; ./../prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar rcSTPD security/integrity/built-in.a security/integrity/iint.o security/integrity/integrity_audit.o

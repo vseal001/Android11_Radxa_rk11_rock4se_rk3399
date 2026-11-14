@@ -1,0 +1,1 @@
+cmd_fs/debugfs/built-in.a :=  rm -f fs/debugfs/built-in.a; ./../prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar rcSTPD fs/debugfs/built-in.a fs/debugfs/inode.o fs/debugfs/file.o

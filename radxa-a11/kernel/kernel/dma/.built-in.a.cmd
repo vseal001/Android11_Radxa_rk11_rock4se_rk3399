@@ -1,0 +1,1 @@
+cmd_kernel/dma/built-in.a :=  rm -f kernel/dma/built-in.a; ./../prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar rcSTPD kernel/dma/built-in.a kernel/dma/mapping.o kernel/dma/contiguous.o kernel/dma/coherent.o kernel/dma/removed.o kernel/dma/direct.o kernel/dma/swiotlb.o

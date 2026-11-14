@@ -1,0 +1,94 @@
+!<thin>
+//                                              1136      `
+hdmi.o/
+backlight/backlight.o/
+backlight/pwm_bl.o/
+rockchip/rga2/rga2_drv.o/
+rockchip/rga2/rga2_mmu_info.o/
+rockchip/rga2/rga2_reg_info.o/
+rockchip/rga2/RGA2_API.o/
+rockchip/rga2/rga2_debugger.o/
+rockchip/iep/hw_iep_reg.o/
+rockchip/iep/iep_drv.o/
+rockchip/iep/iep_iommu_ops.o/
+rockchip/iep/iep_iommu_drm.o/
+rockchip/mpp/mpp_service.o/
+rockchip/mpp/mpp_common.o/
+rockchip/mpp/mpp_iommu.o/
+rockchip/mpp/mpp_rkvdec.o/
+rockchip/mpp/mpp_rkvdec2.o/
+rockchip/mpp/mpp_rkvdec2_link.o/
+rockchip/mpp/mpp_rkvenc.o/
+rockchip/mpp/mpp_vdpu1.o/
+rockchip/mpp/mpp_vepu1.o/
+rockchip/mpp/mpp_vdpu2.o/
+rockchip/mpp/mpp_vepu2.o/
+rockchip/mpp/mpp_iep2.o/
+rockchip/mpp/mpp_jpgdec.o/
+rockchip/mpp/hack/mpp_hack_px30.o/
+fbdev/core/fb_cmdline.o/
+fbdev/core/fb_notify.o/
+fbdev/core/fbmem.o/
+fbdev/core/fbmon.o/
+fbdev/core/fbcmap.o/
+fbdev/core/fbsysfs.o/
+fbdev/core/modedb.o/
+fbdev/core/fbcvt.o/
+fbdev/core/fb_defio.o/
+fbdev/core/cfbfillrect.o/
+fbdev/core/cfbcopyarea.o/
+fbdev/core/cfbimgblt.o/
+fbdev/core/sysfillrect.o/
+fbdev/core/syscopyarea.o/
+fbdev/core/sysimgblt.o/
+fbdev/core/fb_sys_fops.o/
+display_timing.o/
+videomode.o/
+of_display_timing.o/
+of_videomode.o/
+/0              0           0     0     644     150768    `
+/8              0           0     0     644     230992    `
+/31             0           0     0     644     265336    `
+/51             0           0     0     644     491072    `
+/77            /0           0     0     644     243136    `
+/108           /0           0     0     644     65712     `
+/139            0           0     0     644     1216      `
+/165           /0           0     0     644     205528    `
+/196            0           0     0     644     187368    `
+/223            0           0     0     644     316152    `
+/247           /0           0     0     644     55784     `
+/277           /0           0     0     644     198192    `
+/307            0           0     0     644     201000    `
+/335            0           0     0     644     491032    `
+/362            0           0     0     644     184240    `
+/388            0           0     0     644     356248    `
+/415            0           0     0     644     330592    `
+/443            0           0     0     644     369656    `
+/476            0           0     0     644     346840    `
+/503            0           0     0     644     231744    `
+/529            0           0     0     644     241712    `
+/555            0           0     0     644     231584    `
+/581            0           0     0     644     247144    `
+/607            0           0     0     644     298272    `
+/632            0           0     0     644     225608    `
+/659           /0           0     0     644     161024    `
+/694            0           0     0     644     11360     `
+/719            0           0     0     644     136000    `
+/743            0           0     0     644     558296    `
+/763            0           0     0     644     160952    `
+/783            0           0     0     644     203536    `
+/804            0           0     0     644     196360    `
+/826            0           0     0     644     204720    `
+/847            0           0     0     644     23576     `
+/867            0           0     0     644     224816    `
+/890            0           0     0     644     182160    `
+/916            0           0     0     644     189816    `
+/942            0           0     0     644     165864    `
+/966            0           0     0     644     166216    `
+/992            0           0     0     644     165368    `
+/1018           0           0     0     644     163000    `
+/1042           0           0     0     644     163376    `
+/1068           0           0     0     644     7296      `
+/1086           0           0     0     644     9776      `
+/1099           0           0     0     644     45936     `
+/1120           0           0     0     644     24248     `

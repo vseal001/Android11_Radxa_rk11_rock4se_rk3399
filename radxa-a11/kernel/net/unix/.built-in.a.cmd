@@ -1,0 +1,1 @@
+cmd_net/unix/built-in.a :=  rm -f net/unix/built-in.a; ./../prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar rcSTPD net/unix/built-in.a net/unix/af_unix.o net/unix/garbage.o net/unix/sysctl_net_unix.o net/unix/scm.o

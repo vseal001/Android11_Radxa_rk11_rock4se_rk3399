@@ -1,0 +1,15 @@
+kernel/drivers/phy/rockchip/phy-rockchip-csi2-dphy-hw.ko
+kernel/drivers/phy/rockchip/phy-rockchip-csi2-dphy.ko
+kernel/drivers/phy/rockchip/phy-rockchip-emmc.ko
+kernel/drivers/phy/rockchip/phy-rockchip-inno-hdmi-phy.ko
+kernel/drivers/phy/rockchip/phy-rockchip-inno-mipi-dphy.ko
+kernel/drivers/phy/rockchip/phy-rockchip-inno-usb2.ko
+kernel/drivers/phy/rockchip/phy-rockchip-inno-usb3.ko
+kernel/drivers/phy/rockchip/phy-rockchip-inno-video-combo-phy.ko
+kernel/drivers/phy/rockchip/phy-rockchip-mipi-rx.ko
+kernel/drivers/phy/rockchip/phy-rockchip-naneng-combphy.ko
+kernel/drivers/phy/rockchip/phy-rockchip-naneng-edp.ko
+kernel/drivers/phy/rockchip/phy-rockchip-pcie.ko
+kernel/drivers/phy/rockchip/phy-rockchip-snps-pcie3.ko
+kernel/drivers/phy/rockchip/phy-rockchip-typec.ko
+kernel/drivers/phy/rockchip/phy-rockchip-usb.ko

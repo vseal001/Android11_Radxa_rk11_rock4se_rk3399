@@ -1,0 +1,1 @@
+cmd_drivers/tee/built-in.a :=  rm -f drivers/tee/built-in.a; ./../prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar rcSTPD drivers/tee/built-in.a drivers/tee/tee_core.o drivers/tee/tee_shm.o drivers/tee/tee_shm_pool.o drivers/tee/optee/built-in.a
