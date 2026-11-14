@@ -1,0 +1,1 @@
+cmd_tpl/drivers/clk/built-in.o :=  /workspace/radxa-a11/prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld.bfd     -r -o tpl/drivers/clk/built-in.o tpl/drivers/clk/clk-uclass.o tpl/drivers/clk/clk_fixed_rate.o tpl/drivers/clk/rockchip/built-in.o tpl/drivers/clk/tegra/built-in.o 

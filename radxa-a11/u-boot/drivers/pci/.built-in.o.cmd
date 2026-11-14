@@ -1,0 +1,1 @@
+cmd_drivers/pci/built-in.o :=  /workspace/radxa-a11/prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld.bfd     -r -o drivers/pci/built-in.o drivers/pci/pci_rom.o drivers/pci/pci-uclass.o drivers/pci/pci_auto.o drivers/pci/pci_auto_common.o drivers/pci/pci_common.o 

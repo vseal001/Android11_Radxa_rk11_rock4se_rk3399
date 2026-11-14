@@ -1,0 +1,2 @@
+rk_key.c:11:12:rk_key_ofdata_to_platdata	64	static
+rk_key.c:53:12:rk_key_bus_bind	0	static

@@ -1,0 +1,9 @@
+phy-rockchip-typec.c:316:12:rockchip_usb3_phy_power_off	32	static
+phy-rockchip-typec.c:366:12:tcphy_get_param	64	static
+phy-rockchip-typec.c:494:12:rockchip_typec_phy_probe	80	static
+phy-rockchip-typec.c:464:12:rockchip_typec_phy_bind	80	static
+phy-rockchip-typec.c:152:13:tcphy_tx_usb3_cfg_lane.isra.2	0	static
+phy-rockchip-typec.c:162:13:tcphy_rx_usb3_cfg_lane.isra.3	0	static
+phy-rockchip-typec.c:254:12:_rockchip_usb3_phy_power_on	48	static
+phy-rockchip-typec.c:297:12:rockchip_usb3_phy_power_on	48	static
+phy-rockchip-typec.c:339:5:rockchip_u3phy_uboot_init	64	static

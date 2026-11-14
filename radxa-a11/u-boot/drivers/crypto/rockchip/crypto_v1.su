@@ -1,0 +1,8 @@
+crypto_v1.c:38:12:rockchip_crypto_capability	0	static
+crypto_v1.c:211:12:rockchip_crypto_rsa_verify	64	static
+crypto_v1.c:176:12:rockchip_crypto_sha_final	48	static
+crypto_v1.c:144:12:rockchip_crypto_sha_update	64	static
+crypto_v1.c:78:12:rockchip_crypto_sha_init	48	static
+crypto_v1.c:48:12:rk_hash_direct_calc	48	static
+crypto_v1.c:290:12:rockchip_crypto_ofdata_to_platdata	64	static
+crypto_v1.c:321:12:rockchip_crypto_probe	64	static

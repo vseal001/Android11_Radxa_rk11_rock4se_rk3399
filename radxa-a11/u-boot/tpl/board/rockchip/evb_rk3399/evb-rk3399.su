@@ -1,0 +1,5 @@
+evb-rk3399.c:26:5:rk_board_init	32	static
+evb-rk3399.c:166:5:misc_init_r	0	static
+evb-rk3399.c:175:6:get_board_serial	32	static
+evb-rk3399.c:200:5:usb_gadget_handle_interrupts	16	static
+evb-rk3399.c:206:5:board_usb_init	0	static

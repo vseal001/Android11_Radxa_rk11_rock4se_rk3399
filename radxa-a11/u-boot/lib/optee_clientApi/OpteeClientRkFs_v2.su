@@ -1,0 +1,11 @@
+OpteeClientRkFs_v2.c:554:12:rkss_decref_multi_usedflags_sections	96	static
+OpteeClientRkFs_v2.c:519:12:rkss_incref_multi_usedflags_sections	96	static
+OpteeClientRkFs_v2.c:376:12:rkss_get_fileinfo_by_name	144	static
+OpteeClientRkFs_v2.c:714:12:rkss_storage_write	64	static
+OpteeClientRkFs_v2.c:644:12:rkss_write_area_empty_ptable	64	static
+OpteeClientRkFs_v2.c:1102:12:tee_fs_link	432	static
+OpteeClientRkFs_v2.c:346:12:rkss_get_fileinfo_by_index	32	static
+OpteeClientRkFs_v2.c:686:12:rkss_write_back_ptable	32	static
+OpteeClientRkFs_v2.c:122:12:check_security_exist.constprop	32	static
+OpteeClientRkFs_v2.c:1328:5:tee_supp_rk_fs_init_v2	144	static
+OpteeClientRkFs_v2.c:1357:5:tee_supp_rk_fs_process_v2	256	static

@@ -1,0 +1,7 @@
+rockchip-efuse.c:436:12:rockchip_efuse_ioctl	32	static
+rockchip-efuse.c:416:12:rockchip_efuse_read	48	static
+rockchip-efuse.c:455:12:rockchip_efuse_ofdata_to_platdata	32	static
+rockchip-efuse.c:271:12:rockchip_rk3288_efuse_read	64	static
+rockchip-efuse.c:227:12:rockchip_rk3399_efuse_read	224	static
+rockchip-efuse.c:365:12:rockchip_rk3328_efuse_read	112	static
+rockchip-efuse.c:135:12:rockchip_rk1808_efuse_read	112	static

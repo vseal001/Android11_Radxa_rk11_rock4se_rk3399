@@ -1,0 +1,2 @@
+rockchip_crtc.c:177:12:rockchip_vop_probe	32	static
+rockchip_crtc.c:197:12:rockchip_vop_bind	48	static

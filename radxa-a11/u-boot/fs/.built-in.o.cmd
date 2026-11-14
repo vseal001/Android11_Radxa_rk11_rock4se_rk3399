@@ -1,0 +1,1 @@
+cmd_fs/built-in.o :=  /workspace/radxa-a11/prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld.bfd     -r -o fs/built-in.o fs/fs.o fs/ext4/built-in.o fs/fat/built-in.o fs/fs_internal.o 

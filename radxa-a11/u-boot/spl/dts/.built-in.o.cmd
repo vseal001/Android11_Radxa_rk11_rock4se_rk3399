@@ -1,0 +1,1 @@
+cmd_spl/dts/built-in.o :=  rm -f spl/dts/built-in.o; /workspace/radxa-a11/prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar rcs spl/dts/built-in.o

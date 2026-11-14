@@ -1,0 +1,1 @@
+cmd_examples/standalone/hello_world.bin := /workspace/radxa-a11/prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-objcopy -O binary  examples/standalone/hello_world examples/standalone/hello_world.bin

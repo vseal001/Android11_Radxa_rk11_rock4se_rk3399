@@ -1,0 +1,13 @@
+rockchip_vop2.c:1030:13:is_yuv_output	0	static
+rockchip_vop2.c:2691:12:rockchip_vop2_prepare	0	static
+rockchip_vop2.c:2696:12:rockchip_vop2_enable	0	static
+rockchip_vop2.c:2710:12:rockchip_vop2_disable	0	static
+rockchip_vop2.c:2767:12:rockchip_vop2_fixup_dts	128	static
+rockchip_vop2.c:1714:22:vop2_calc_cru_cfg	64	static
+rockchip_vop2.c:1110:30:vop2_find_win_by_phys_id.isra.0	0	static
+rockchip_vop2.c:1412:12:vop2_power_domain_on	48	static
+rockchip_vop2.c:1649:12:rockchip_vop2_preinit	80	static
+rockchip_vop2.c:816:17:vop2_scale_factor.part.2	80	static
+rockchip_vop2.c:2433:13:vop2_setup_scale	112	static
+rockchip_vop2.c:2657:12:rockchip_vop2_set_plane	176	static
+rockchip_vop2.c:2220:12:rockchip_vop2_init	304	static

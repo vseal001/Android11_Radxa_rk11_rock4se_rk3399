@@ -1,0 +1,3 @@
+efi_device_path_to_text.c:18:18:efi_convert_device_node_to_text.isra.0	64	static
+efi_device_path_to_text.c:107:25:efi_convert_device_path_to_text	32	static
+efi_device_path_to_text.c:91:25:efi_convert_device_node_to_text_ext	32	static
